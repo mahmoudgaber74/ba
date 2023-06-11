@@ -29,10 +29,3 @@ documentation by executing
 grunt docs
 ```
 
-Which will start up the documentation on port 4000. You will need
-[Jekyll][jekyll] installed to build the documentation.
-
-[jekyll]: http://jekyllrb.com/
-[select2]: https://select2.github.io
-[select2-docs-source]: https://github.com/select2/select2.github.io
-[select2-source]: https://github.com/select2/select2
